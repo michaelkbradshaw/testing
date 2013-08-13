@@ -16,7 +16,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * An Activity which Creates a cummulative Quiz, based on previous performance.
+ * An Activity which Creates a cummulative Quiz, based on previous performance. ?
  *
  *
  * @package    mod
